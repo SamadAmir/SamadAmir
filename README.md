@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://samadamir.github.io/My_Portfolio/
 
-- 💬 Ask me about **FrontEnd (React) Backend(Java)**
+- 💬 Ask me about **FrontEnd (React) Backend(Java,NodeJS)**
 
 - 📫 How to reach me **samadaamir145@gmail.com**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/samada1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samad amir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samad-amir-2s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samad amir" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100005794742246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samad amir" height="30" width="40" /></a>
 <a href="https://instagram.com/samad_syd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samad_syd" height="30" width="40" /></a>
 </p>
